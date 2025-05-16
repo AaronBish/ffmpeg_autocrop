@@ -1,0 +1,27 @@
+# Git files
+.git
+.gitignore
+
+# Docker files
+.dockerignore
+
+# Temporary files and directories
+tmp
+temp
+*.tmp
+
+# Node modules
+node_modules
+
+# Editor files
+.idea
+.vscode
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db 
